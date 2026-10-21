@@ -12,6 +12,16 @@ lost and found reports. All data is saved to a file, so it persists between runs
 - Mark an item as returned, or delete a report
 - Automatic saving and loading from `items.txt`
 - Input validation (empty fields, 10-digit phone, menu ranges)
+-    ## Screenshots
+
+   ### Report a lost item
+   ![Report item](report.png)
+
+   ### Report a found item
+   ![Found item](found.png)
+
+   ### Smart Match
+   ![Smart Match](Match.png)
 
 ## Concepts used
 - Classes and objects, constructors and destructors, const member functions
