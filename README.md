@@ -40,4 +40,4 @@ ReFound/
 
 ## Team ReFound
 - Ishaan Anand
-- (add your partner's name here)
+- Jyoti Gupta
